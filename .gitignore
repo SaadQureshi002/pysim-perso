@@ -169,3 +169,7 @@ cython_debug/
 
 # Local assistant guidance; intentionally not tracked
 CLAUDE.md
+PAF_LTE_0012_out/
+
+PAF_LTE_0012_out/
+settings.json
